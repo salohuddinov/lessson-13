@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Orbitron400";
+    src: url(../fonts/Orbitron/Orbitron-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Orbitron700";
+    src: url(../fonts/Orbitron/Orbitron-Bold.ttf);
+}
